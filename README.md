@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajapm and im a CSM studying for my PMP
-- 👀 I’m interested in learning more about the SM role & Project Management 
-- 🌱 I’m currently learning all about Projects
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me direct messages 
+- 👋 Hi, I’m @ajapm and I'm a CSM studying for my PMP.
+- 👀 I’m interested in learning more about the SM role & Project Management.
+- 🌱 I’m currently learning all about Projects. 
+- 💞️ I’m looking to collaborate on projects. I'm currently thinking about how to develop a platform with assigning privileges based on personality traits.  
+- 📫 How to reach me: direct messages
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sky diving!
 
